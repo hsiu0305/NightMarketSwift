@@ -1,0 +1,6 @@
+framework module Pods_NightMarketSwift {
+  umbrella header "Pods-NightMarketSwift-umbrella.h"
+
+  export *
+  module * { export * }
+}
